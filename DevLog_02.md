@@ -2,10 +2,12 @@ DevLog 02 | 二里头一号宫殿材质管线：简易PBR材质体系与资产�
 
 暂时成品图：<img width="1520" height="956" alt="345f7b8534e2fdd83ab86bf1c4bfa3ee" src="https://github.com/user-attachments/assets/572a6c51-7e11-4667-b29f-a876e64a4685" />
 
-
 时间：2026.10.14——2026.10.18
+
 项目：UE5.8 二里头遗址一号宫殿 考古导向环境美术复原
+
 版本：Material Pipeline v0.9
+
 目标方向：国风大世界 场景制作 / 场景TA
 
 一、 技术定位与管线架构
